@@ -1,12 +1,11 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Tran Phuc Anh
+### Chào 🌎!, tên mình là Trần Phúc Anh
+Với 3 năm kinh nghiệm làm Kỹ sư phần mềm, tôi có có thể phát triển ở cả front-end và back-end. Tôi đam mê code sạch, dễ bảo trì và thiết kế với người dùng trong tâm trí, phát triển mạnh mẽ trong môi trường yêu thích sự đổi mới và phát triển chuyên môn liên tục. Mặc dù kỹ năng của tôi có giới hạn, tôi sẽ tiếp tục cải thiện và tích lũy kinh nghiệm của mình từng ngày! 🌱
 
-With 3 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Though my skills are limited, i'll keep on improving and stockpiling my experiences by the day! 🌱
-
-  - 🔭 I’m currently working on MVC Entity Framework on Microsoft Visual Studio
-  - 🌱 I’m currently learning; Javascript.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, C#, .NET, Java, Scrum,**
+- 🔭 Hiện tại tôi đang làm việc trên MVC Entity Framework trên Microsoft Visual Studio
+- 🌱 Hiện tại tôi đang học; Javascript.
+- 💬 Hỏi tôi về **Html, Css, Sass, Bootstrap, Javascript, C#, .NET, Java, Scrum,**
 <h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bendersen77&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
